@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby "1.9.3"
+
 gem 'railties', '3.2.11'
 gem 'tzinfo'
 
